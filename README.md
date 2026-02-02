@@ -6,10 +6,10 @@
 <tr>
 <td width="65%" valign="top">
 
-## 👨‍💻 Hey there, I'm **Sohan Singh**
+## 👨‍💻 Hi..., I'm **Sohan Singh**
 
-🛡️ Cybersecurity Explorer & Defensive Thinker  
-⚙️ Java Backend Developer  
+🛡️ Cybersecurity Explorer & Offensive and Defensive Thinker  
+⚙️ Software Developer  
 🧠 Curious about Hacking, Security & System Design  
 🌐 Learning • Building • Sharing Tech
 
