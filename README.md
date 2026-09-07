@@ -47,18 +47,6 @@ Learning • Building • Sharing Tech
 <img src="https://skillicons.dev/icons?i=linux,git,github,docker,kubernetes,jenkins,kali,aws&theme=dark" />
 </p>
 
-### 🛡️ Cybersecurity Arsenal
-<p>
-<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white"/>
-<img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hashcat-000000?style=for-the-badge&logo=hashcat&logoColor=white"/>
-<img src="https://img.shields.io/badge/John_the_Ripper-8B0000?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nikto-4B0082?style=for-the-badge&logoColor=white"/>
-</p>
-
 </div>
 
 <!-- ================= SUPPORT ================= -->
