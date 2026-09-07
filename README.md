@@ -37,12 +37,12 @@ Learning • Building • Sharing Tech
 
 ### 💻 Programming Languages
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,typescript&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,python,c,js,typescript&theme=dark" />
 </p>
 
 ### 🌐 Web & Mobile Development
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,mongodb,androidstudio,firebase&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express,mongodb,androidstudio,firebase&theme=dark" />
 </p>
 
 ### 🔐 DevOps & Security Tools
