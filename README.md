@@ -11,7 +11,9 @@
 Software Engineer & Problem Solver
 <br>
 Full-Stack Developer
+<br>
 Curious about DSA, System Design & Software Architecture
+<br>
 Learning • Building • Sharing Tech
 
 
