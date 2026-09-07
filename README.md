@@ -8,10 +8,10 @@
 
 ## 👨‍💻 Hi..., I'm **Sohan Singh**
 
-🛡️ Cybersecurity Explorer & Offensive and Defensive Thinker  
-⚙️ Software Developer  
-🧠 Curious about Hacking, Security & System Design  
-🌐 Learning • Building • Sharing Tech
+Software Engineer & Problem Solver
+Full-Stack Developer
+Curious about DSA, System Design & Software Architecture
+Learning • Building • Sharing Tech
 
 
 </td>
