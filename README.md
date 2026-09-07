@@ -9,6 +9,7 @@
 ## 👨‍💻 Hi..., I'm **Sohan Singh**
 
 Software Engineer & Problem Solver
+<br>
 Full-Stack Developer
 Curious about DSA, System Design & Software Architecture
 Learning • Building • Sharing Tech
