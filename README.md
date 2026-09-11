@@ -8,9 +8,7 @@
 
 ## 👨‍💻 Hi..., I'm **Sohan Singh**
 
-Software Engineer & Problem Solver
-<br>
-Full-Stack Developer
+Full-Stack Developer & Software Engineer
 <br>
 Curious about DSA, System Design & Software Architecture
 <br>
